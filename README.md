@@ -1,16 +1,33 @@
-## Hi there 👋
+## 👋 Hi, I'm ✈️ Nanxiang Jiang
 
-<!--
-**nxjiang-jnx/nxjiang-jnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🚀 What I Do  
 
-Here are some ideas to get you started:
+I'm an **undergraduate** student at **Beihang University**, majoring in **Computer Science and Engineering** and have **2** years of experience.  
+I enjoy solving real-world problems through back-end development, system-level programming, and AI research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📚 My Background  
+
+I'm from **Nanjing, China** and graduated from **Jinling High School**, and currently pursuing my degree in Beijing.  
+I’ve explored software engineering and computer architecture, which laid the foundation for my current interests.
+
+#### 💡 My Interests  
+
+**Professional interests:**  
+🧠 Computer Vision  
+⚔️ Adversarial Machine Learning  
+🤖 Embodied Intelligence  
+
+**Personal hobbies:**  
+🎼 Classical music & Piano  
+🧩 Origami (I fold both ideas and paper)  
+✈️ Aviation and flight simulation  
+
+#### 🥇 My Awards:  
+
+Coming soon...
+
+#### 🔗 Connect With Me  
+
+- Email: [jiangnx@buaa.edu.cn]  
+
+### “My heart is in the work.”
