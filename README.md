@@ -22,10 +22,6 @@ I’ve explored software engineering and computer architecture, which laid the f
 🧩 Origami (I fold both ideas and paper)  
 ✈️ Aviation and flight simulation  
 
-#### 🥇 My Awards:  
-
-Coming soon...
-
 #### 🔗 Connect With Me  
 
 - Email: [jiangnx@buaa.edu.cn]  
