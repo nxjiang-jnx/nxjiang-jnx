@@ -5,6 +5,8 @@
 I'm an **undergraduate** student at **Beihang University**, majoring in **Computer Science and Engineering** and have **2** years of experience.  
 I enjoy solving real-world problems through back-end development, system-level programming, and AI research.
 
+I am also a passionate **symphony conductor**, **pianist**, and **origami artist**, exploring creativity across both science and the arts. 
+
 ### 📚 My Background  
 
 I'm from **Nanjing, China** and graduated from **Jinling High School**, and currently pursuing my degree in Beijing.  
