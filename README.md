@@ -27,5 +27,3 @@ I’ve explored software engineering and computer architecture, which laid the f
 ### 🔗 Connect With Me  
 
 - Email: [jiangnx@buaa.edu.cn]  
-
-### “My heart is in the work.”
