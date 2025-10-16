@@ -2,7 +2,7 @@
 
 ### 🚀 What I Do  
 
-I'm an **undergraduate** student at **Beihang University**, majoring in **Computer Science and Engineering** and have **2** years of experience.  
+I'm an **undergraduate** student at **Beihang University**, majoring in **Computer Science and Engineering** and have **3** years of experience.  
 I enjoy solving real-world problems through back-end development, system-level programming, and AI research.
 
 I am also a passionate **symphony conductor**, **pianist**, and **origami artist**, exploring creativity across both science and the arts. 
