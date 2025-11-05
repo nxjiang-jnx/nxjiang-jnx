@@ -1,4 +1,4 @@
-## 👋 Hi, I'm ✈️ Nanxiang Jiang
+## 👋 Hi, I'm Nanxiang Jiang
 
 ### 🚀 What I Do  
 
