@@ -10,7 +10,6 @@ I am also a passionate **symphony conductor**, **pianist**, and **origami artist
 ### 📚 My Background  
 
 I'm from **Nanjing, China** and graduated from **Jinling High School**, and currently pursuing my degree in Beijing.  
-I’ve explored software engineering and computer architecture, which laid the foundation for my current interests.
 
 ### 💡 My Interests  
 
@@ -28,4 +27,4 @@ I’ve explored software engineering and computer architecture, which laid the f
 
 - Email: [jiangnx@buaa.edu.cn]
 
-### I am currently seeking Ph.D. opportunities for Fall 2027.
+### I am currently seeking Ph.D. opportunities for Fall 2027！
