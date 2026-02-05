@@ -15,13 +15,11 @@ I'm from **Nanjing, China** and graduated from **Jinling High School**, and curr
 
 **Professional interests:**  
 🧠 Computer Vision  
-⚔️ Adversarial Machine Learning  
 🤖 Embodied Intelligence  
 
 **Personal hobbies:**  
 🎼 Classical music & Piano  
 🧩 Origami (I fold both ideas and paper)  
-✈️ Aviation and flight simulation  
 
 ### 🔗 Connect With Me  
 
