@@ -1,6 +1,7 @@
-## 👋 Hi, I'm Nanxiang Jiang
+<img width="1595" height="424" alt="image" src="https://github.com/user-attachments/assets/3f5cd923-08e9-45d9-a406-872c83004442" />
 
-<img width="1614" height="599" alt="image" src="https://github.com/user-attachments/assets/dddf0862-404e-42f1-8d17-2382a435181c" />
+
+## 👋 Hi, I'm Nanxiang Jiang
 
 
 ### 🚀 What I Do  
