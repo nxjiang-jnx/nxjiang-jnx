@@ -1,5 +1,8 @@
 ## 👋 Hi, I'm Nanxiang Jiang
 
+<img width="1614" height="599" alt="image" src="https://github.com/user-attachments/assets/dddf0862-404e-42f1-8d17-2382a435181c" />
+
+
 ### 🚀 What I Do  
 
 I'm an **undergraduate** student at **Beihang University**, majoring in **Computer Science and Engineering** and have **3** years of experience.  
