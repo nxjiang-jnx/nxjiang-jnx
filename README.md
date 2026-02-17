@@ -28,5 +28,3 @@ I'm from **Nanjing, China** and graduated from **Jinling High School**, and curr
 ### 🔗 Connect With Me  
 
 - Email: [jiangnx@buaa.edu.cn]
-
-### I am currently seeking Ph.D. opportunities for Fall 2027！
