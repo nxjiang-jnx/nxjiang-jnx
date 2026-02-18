@@ -11,9 +11,7 @@ I enjoy solving real-world problems through system-level programming, and AI res
 
 I am also a passionate **symphony conductor**, **pianist**, and **origami artist**, exploring creativity across both science and the arts. 
 
-### 📚 My Background  
 
-I'm from **Nanjing, China** and graduated from **Jinling High School**, and currently pursuing my degree in Beijing.  
 
 ### 💡 My Interests  
 
